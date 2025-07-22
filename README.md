@@ -21,27 +21,43 @@
 ### 🚀 About Me
 
 - 🔭 Currently working on: `react-shadcn-fe` (modern React dashboard with ShadCN UI & TanStack Router)
-- 💼 Backend: `.NET Core`, `REST API`, `Entity Framework`, `PostgreSQL`
+- 💼 Backend: `.NET Core`, `REST API`, `Entity Framework`
 - 💻 Frontend: `React`, `TypeScript`, `TailwindCSS`, `Zustand`, `TanStack`
-- 📱 Mobile Development: `Flutter`, `GetX`, `Bloc`, `Firebase`, `Dio`, `Freezed`
-- ⚙️ Dev Tools: `Vite`, `Postman`, `GitHub Actions`, `Netlify`, `VS Code`, `Android Studio`
-- 📚 Currently learning: Clean Architecture, Clerk Auth, and API integration
+- 📱 Mobile Development: `Flutter`, `Dart`, `Firebase`, `Bloc`, `Riverpod`, `GetX`
+- ⚙️ Dev Tools: `Vite`, `Postman`, `GitHub Actions`, `Netlify`, `Visual Studio`, `Figma`
+- 📚 Currently learning: Clean Architecture, Clerk Auth, API Integration
 - 🧠 I love clean code, reusable components, and elegant UI/UX
 
 ---
 
 ### 🛠 Tech Stack
 
+**Web & Backend:**
+
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat)
 ![Zustand](https://img.shields.io/badge/-Zustand-000?logo=zustand&logoColor=white&style=flat)
 ![TanStack Router](https://img.shields.io/badge/-TanStack_Router-EF4444?style=flat&logo=react-router&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat)
+
+**Mobile Development:**
+
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+![Bloc](https://img.shields.io/badge/-Bloc-3982F7?style=flat&logo=flutter)
+![Riverpod](https://img.shields.io/badge/-Riverpod-3DDB85?style=flat&logo=flutter)
+![GetX](https://img.shields.io/badge/-GetX-7C3AED?style=flat&logo=flutter)
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nizar-aplikasi&theme=darkhub&margin-w=10&margin-h=10&no-frame=true" />
+</p>
 
 ---
 
@@ -54,23 +70,31 @@
 
 ---
 
+### 📊 WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--WakaTime stats will appear here if integrated-->
+<!--END_SECTION:waka-->
+
+---
+
 ### 🧰 Featured Projects
 
 - 🔷 [react-shadcn-fe](https://github.com/nizar-aplikasi/react-shadcn-fe)  
   Modern React + ShadCN admin dashboard with TanStack Router, Zustand, and dynamic layout.
 
-- 🔷 [flutter-ecommerce-app](#) *(coming soon)*  
-  E-commerce mobile app built with Flutter, GetX, and Firebase integration.
-
 - 🔷 [aspnet-api-template](#) *(coming soon)*  
   Scalable .NET Web API template using clean architecture & layered pattern.
+
+- 🔷 [flutter-mobile-app](#) *(coming soon)*  
+  Mobile app using Flutter, Firebase Auth, and RESTful integration.
 
 ---
 
 ### 📬 Let's Connect
 
-- LinkedIn: [nizar-basyrewan](https://www.linkedin.com/in/nizar-basyrewan/)
-- Email: [nizar.aplikasi@gmail.com](mailto:nizar.aplikasi@gmail.com)
+- 💼 LinkedIn: [nizar-basyrewan](https://www.linkedin.com/in/nizar-basyrewan)
+- 📧 Email: [nizar.aplikasi@gmail.com](mailto:nizar.aplikasi@gmail.com)
 
 ---
 
