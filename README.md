@@ -21,9 +21,9 @@
 ### 🚀 About Me
 
 - 🔭 Currently working on: `react-shadcn-fe` (modern React dashboard with ShadCN UI & TanStack Router)
+- 📱 Building: `attendance` Flutter app for employee check-in/out with selfie & GPS
 - 💼 Backend: `.NET Core`, `REST API`, `Entity Framework`
 - 💻 Frontend: `React`, `TypeScript`, `TailwindCSS`, `Zustand`, `TanStack`
-- 📱 Mobile Development: `Flutter`, `Dart`, `Firebase`, `Bloc`, `Riverpod`, `GetX`
 - ⚙️ Dev Tools: `Vite`, `Postman`, `GitHub Actions`, `Netlify`, `Visual Studio`, `Figma`
 - 📚 Currently learning: Clean Architecture, Clerk Auth, API Integration
 - 🧠 I love clean code, reusable components, and elegant UI/UX
@@ -83,11 +83,12 @@
 - 🔷 [react-shadcn-fe](https://github.com/nizar-aplikasi/react-shadcn-fe)  
   Modern React + ShadCN admin dashboard with TanStack Router, Zustand, and dynamic layout.
 
+- 🔷 [flutter-attendance-app](#) *(coming soon)*  
+  Employee attendance app built with Flutter. Features selfie check-in, GPS (latitude/longitude), and backend sync.  
+  Future updates: leave requests (izin, cuti, dinas, sakit), payroll notifications, and in-app employee chat.
+
 - 🔷 [aspnet-api-template](#) *(coming soon)*  
   Scalable .NET Web API template using clean architecture & layered pattern.
-
-- 🔷 [flutter-mobile-app](#) *(coming soon)*  
-  Mobile app using Flutter, Firebase Auth, and RESTful integration.
 
 ---
 
