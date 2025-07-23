@@ -73,7 +73,6 @@
 ### 📊 WakaTime Stats
 
 <!--START_SECTION:waka-->
-<!--WakaTime stats will appear here if integrated-->
 <!--END_SECTION:waka-->
 
 ---
