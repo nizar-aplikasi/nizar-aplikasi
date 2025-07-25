@@ -24,7 +24,7 @@
 - 📱 Building: `attendance` Flutter app for employee check-in/out with selfie & GPS
 - 💼 Backend: `.NET Core`, `REST API`, `Entity Framework`
 - 💻 Frontend: `React`, `TypeScript`, `TailwindCSS`, `Zustand`, `TanStack`
-- ⚙️ Dev Tools: `Vite`, `Postman`, `GitHub Actions`, `Netlify`, `Visual Studio`, `Figma`
+- ⚙️ Dev Tools: `Vite`, `Postman`, `GitHub Actions`, `Netlify`, `VS 2022`,`Visual Studio Code`, `Trae`, `Figma`
 - 📚 Currently learning: Clean Architecture, Clerk Auth, API Integration
 - 🧠 I love clean code, reusable components, and elegant UI/UX
 
