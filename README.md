@@ -21,11 +21,11 @@
 ### 🚀 About Me
 
 - 🔭 Currently working on: `react-shadcn-fe` (modern React dashboard with ShadCN UI & TanStack Router)
+- 📚 Currently learning: Go Lang, PostgreSQL, Swagger UI, Clean Architecture, Clerk Auth, API Integration  
 - 📱 Building: `attendance` Flutter app for employee check-in/out with selfie & GPS
 - 💼 Backend: `.NET Core`, `Entity Framework`, `REST API`,`Laravel`, `CI` 
 - 💻 Frontend: `React`, `TypeScript`, `TailwindCSS`, `Zustand`, `TanStack`
 - ⚙️ Dev Tools: `Trae`, `VS 2022`, `VS Code`, `Postman`, `GitHub Actions`, `Vite`, `Netlify`,   `Figma`
-- 📚 Currently learning: Go Lang, PostgreSQL, Swagger UI, Clean Architecture, Clerk Auth, API Integration
 - 🧠 I love clean code, reusable components, and elegant UI/UX
 - 🏗️ Code Philosophy: I adhere to Clean Architecture principles to ensure maintainable, scalable, and testable code.
   Focused on separation of concerns and ensuring that business logic is independent of frameworks and tools.
