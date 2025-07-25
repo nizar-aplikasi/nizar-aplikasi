@@ -22,9 +22,9 @@
 
 - 🔭 Currently working on: `react-shadcn-fe` (modern React dashboard with ShadCN UI & TanStack Router)
 - 📱 Building: `attendance` Flutter app for employee check-in/out with selfie & GPS
-- 💼 Backend: `.NET Core`, `REST API`, `Entity Framework`
+- 💼 Backend: `.NET Core`, `Entity Framework`, `REST API`,`Laravel`, `CI` 
 - 💻 Frontend: `React`, `TypeScript`, `TailwindCSS`, `Zustand`, `TanStack`
-- ⚙️ Dev Tools: `Vite`, `Postman`, `GitHub Actions`, `Netlify`, `VS 2022`,`Visual Studio Code`, `Trae`, `Figma`
+- ⚙️ Dev Tools: `Trae`, `VS 2022`, `VS Code`, `Postman`, `GitHub Actions`, `Vite`, `Netlify`,   `Figma`
 - 📚 Currently learning: Clean Architecture, Clerk Auth, API Integration
 - 🧠 I love clean code, reusable components, and elegant UI/UX
 
